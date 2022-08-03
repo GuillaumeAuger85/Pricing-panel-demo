@@ -2,7 +2,7 @@
 
 ### View it [here!]( https://guillaumeauger85.github.io/Pricing-panel-demo/)
 
-![html5](https://user-images.githubusercontent.com/49698792/182226231-08371373-e9ac-400d-a151-ad327d051714.png)![css3](https://user-images.githubusercontent.com/49698792/182226241-6478de58-1d86-4876-834a-b59880a09b8a.png)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 HTML and CSS project from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
