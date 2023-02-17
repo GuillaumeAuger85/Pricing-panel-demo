@@ -1,4 +1,4 @@
-# Pricing-panel-demo
+# Pricing panel demo
 
 ### View it [here!]( https://guillaumeauger85.github.io/Pricing-panel-demo/)
 
